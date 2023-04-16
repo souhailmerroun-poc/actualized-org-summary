@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Hello, World!</title>
+    <title>Actualized.org Video Summary</title>
   </head>
   <body>
-    <h1><?php echo "Hello, World!"; ?></h1>
-    <p>Welcome to my PHP website!</p>
+    <h1>Actualized.org Video Summary</h1>
+    <p>The website provided summarized content:</p>
+    <ul>
+      <li><a href="How To Be Attractive - The Ultimate Attraction Strategy.html">How To Be Attractive - The Ultimate Attraction Strategy</a></li>
+    </ul>
   </body>
 </html>
